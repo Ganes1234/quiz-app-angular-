@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\obj",
+    "\\packages",
+    "\\WebAPI",
+    "\\WebAPI\\App_Start",
+    "\\WebAPI\\Controllers",
+    "\\WebAPI\\Controllers\\Models",
+    "\\WebAPI\\Images",
+    "\\WebAPI\\obj",
+    "\\WebAPI\\Scripts"
+  ],
+  "SelectedNode": "\\WebAPI\\Controllers\\ParticipantController.cs",
+  "PreviewInSolutionExplorer": false
+}
