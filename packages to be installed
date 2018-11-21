@@ -1,0 +1,6 @@
+# NuGet Command : Install Web API Cors
+Install-Package Microsoft.AspNet.WebApi.Cors 
+
+# NuGet Command : Fix Version Compactability of Cors and Http
+Update-Package Microsoft.AspNet.WebApi -reinstall
+Install-Package Microsoft.AspNet.WebApi.Core
